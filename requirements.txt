@@ -1,0 +1,6 @@
+pandas
+torch
+transformers
+lightning
+scikit-learn
+wandb
